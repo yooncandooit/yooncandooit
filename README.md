@@ -4,4 +4,3 @@ A passionate software engineer interested in the Web 🌐, and Developer Relatio
 - Dongguk University (majoring in Information Communication Engineering), Seoul, Korea 🇰🇷
 - Contact: dotsi0@dgu.ac.kr
 - Blog: https://h0wdy.tistory.com/
-A passionate software engineer interested in the Web 🌐, and Developer Relations 🌴
