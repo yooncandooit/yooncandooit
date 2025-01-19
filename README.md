@@ -3,5 +3,5 @@ A passionate software engineer interested in the Web 🌐, and Developer Relatio
 ## About me
 - Dongguk University (majoring in Information Communication Engineering), Seoul, Korea 🇰🇷
 - Contact: dotsi0@dgu.ac.kr
-- Blog: https://h0wdy.tistory.com/
+- Blog: https://velog.io/@dotsi0
 - Instagram: [@yooncandooit](https://www.instagram.com/yooncandooit/)
