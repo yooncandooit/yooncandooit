@@ -1,7 +1,7 @@
 <div>
   <!--Header-->
   
-[  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=hearder&text=Yoon%&fontSize=60)
+[  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=hearder&text=Yoonji%20Kim%&%&fontSize=60)
 ](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yoon)
 </div>
 
