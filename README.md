@@ -25,13 +25,13 @@
   
 #### 9oormthonUNIV 3th Frontend Web (2024.07 ~ 2024.12) <br/>
 #### 9oormthonUNIV 4th Marketing Leader (2025.03 ~ 2025.11) <br/>
-#### UMC 8th Frontend Web (2025.03 ~ 2025.08) <br/>
-#### UMC 9th Backend Spring Boot (2025.09 ~ 2026.01) <br/>
+#### UMC 8th Frontend Web Senior (2025.03 ~ 2025.08) <br/>
+#### UMC 9th Backend Spring Boot Junior (2025.09 ~ 2026.01) <br/>
 #### DIVE SOPT 37th Frontend Web YB (2025.09 ~ 2026.01) <br/>
 
 <br />
 
-## languages and tools
+## Languages and Tools
 <br />
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
