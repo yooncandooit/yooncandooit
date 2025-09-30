@@ -22,16 +22,17 @@
 
 <div>
   <!--Body-->
-  
-#### 9oormthonUNIV 3th Frontend Web (2024.07 ~ 2024.12) <br/>
-#### 9oormthonUNIV 4th Marketing Leader (2025.03 ~ 2025.11) <br/>
-#### UMC 8th Frontend Web Senior (2025.03 ~ 2025.08) <br/>
-#### UMC 9th Backend Spring Boot Junior (2025.09 ~ 2026.01) <br/>
-#### DIVE SOPT 37th Frontend Web YB (2025.09 ~ 2026.01) <br/>
+
+#### About Me
+- 9oormthonUNIV 3th Frontend Web `(2024.07 ~ 2024.12)` <br/>
+- 9oormthonUNIV 4th Marketing Leader `(2025.03 ~ 2025.11)` <br/>
+- UMC 8th Frontend Web Senior `(2025.03 ~ 2025.08)` <br/>
+- UMC 9th Backend Spring Boot Junior `(2025.09 ~ 2026.01)` <br/>
+- DIVE SOPT 37th Frontend Web YB `(2025.09 ~ 2026.01)` <br/>
 
 <br />
 
-## Languages and Tools
+#### Languages and Tools
 <br />
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -70,7 +71,7 @@
 <br />
 
 
-  ## Statistics 
+  #### Statistics 
   <div align="left">
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooncandooit&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
