@@ -14,7 +14,7 @@
   <img align="left" alt="yoon's LinkedIN" height="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
 </a>
 <a href="https://velog.io/@dotsi0/posts" target="_blank">
-  <img align="left" alt="yoon's LinkedIN" height="30px"
+  <img align="left" alt="yoon's Post" height="30px"
     src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8_400x400.jpg" />
 </a>
 
