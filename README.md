@@ -1,22 +1,11 @@
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yooncandooit&label=Profile%20views&color=0e75b6&style=flat" alt="yooncandooit" /> </p>
+
 <div>
   <!--Header-->
   
 [  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=hearder&text=Yoonji%20Kim%&%&fontSize=60)
 ](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yoon)
 </div>
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yooncandooit&label=Profile%20views&color=0e75b6&style=flat" alt="yooncandooit" /> </p>
-
-<a href="https://instagram.com/yooncandooit" target="_blank">
-  <img align="left" alt="yoon's Instagram" height="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/%EC%9C%A4%EC%A7%80-%EA%B9%80-857a35320/" target="_blank">
-  <img align="left" alt="yoon's LinkedIN" height="30px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-</a>
-<a href="https://velog.io/@dotsi0/posts" target="_blank">
-  <img align="left" alt="yoon's Post" height="30px"
-    src="https://pbs.twimg.com/profile_images/1228368893321736193/Ov0og7E8_400x400.jpg" />
-</a>
 
 <br />
 
@@ -72,23 +61,9 @@
 
 
   #### Statistics 
+  
   <div align="left">
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooncandooit&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-
+![yoonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooncandooit&show_icons=true&count_private=true&theme=material-palenight&hide=stars)
+  
 </div>
-
-<!--
-**yooncandooit/yooncandooit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
