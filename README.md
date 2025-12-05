@@ -57,10 +57,21 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
   </a>
 </p>
-<br />
 
-#### Languages
+#### Languages 
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yooncandooit&layout=compact&theme=material-palenight" alt="yoonji's top langs" />
+
+  <img src="https://github-readme-stats-phi-six-59.vercel.app/api/top-langs/?username=yooncandooit&layout=compact&theme=material-palenight&count_private=true" alt="yoonji's top langs" />
+
+<br />
+
+#### Statistics
+
+<div align="left">
+
+  <img src="https://github-readme-stats-phi-six-59.vercel.app/api?username=yooncandooit&show_icons=true&count_private=true&theme=material-palenight&hide=stars" height="180" alt="yoonji's GitHub stats" />
+
+</div>
+
 </div>
