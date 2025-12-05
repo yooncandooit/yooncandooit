@@ -59,11 +59,8 @@
 </p>
 <br />
 
+#### Languages
 
-  #### Statistics 
-  
-  <div align="left">
-    
-![yoonji's GitHub stats](https://github-readme-stats.vercel.app/api?username=yooncandooit&show_icons=true&count_private=true&theme=material-palenight&hide=stars)
-  
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yooncandooit&layout=compact&theme=material-palenight" alt="yoonji's top langs" />
 </div>
