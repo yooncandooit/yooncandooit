@@ -1,77 +1,29 @@
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=yooncandooit&label=Profile%20views&color=0e75b6&style=flat" alt="yooncandooit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yooncandooit&label=Profile%20views&color=0e75b6&style=flat" alt="yooncandooit" /> </p>
 
-<div>
-  <!--Header-->
-  
-[  ![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=hearder&text=Yoonji%20Kim%&%&fontSize=60)
-](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yoon)
+<div align="center">
+  <a href="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Yoon">
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=300&section=header&text=Yoonji%20Kim&fontSize=60" alt="header" />
+  </a>
 </div>
 
 <br />
 
-<div>
-  <!--Body-->
-
-#### About Me
-- 9oormthonUNIV 3th Frontend Web `(2024.07 ~ 2024.12)` <br/>
-- 9oormthonUNIV 4th Marketing Leader `(2025.03 ~ 2025.11)` <br/>
-- UMC 8th Frontend Web Senior `(2025.03 ~ 2025.08)` <br/>
-- UMC 9th Backend Spring Boot Junior `(2025.09 ~ 2026.01)` <br/>
-- DIVE SOPT 37th Frontend Web YB `(2025.09 ~ 2026.01)` <br/>
+<div align="center">
+  
+<h3> 👀 About Me </h3>
+  
+9oormthonUNIV 3th Frontend Web `(2024.07 ~ 2024.12)` <br/>
+9oormthonUNIV 4th Marketing Leader `(2025.03 ~ 2025.11)` <br/>
+UMC 8th Frontend Web Senior `(2025.03 ~ 2025.08)` <br/>
+UMC 9th Backend Spring Boot Junior `(2025.09 ~ 2026.01)` <br/>
+DIVE SOPT 37th Frontend Web YB `(2025.09 ~ 2026.01)` <br/>
 
 <br />
 
-#### Languages and Tools
-<br />
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="30"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="30"/>
-  </a>
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30"/>
-   </a>
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="30"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="30"/>
-  </a> 
+<h3> ⭐️ Languages and Status </h3>
+</div>
 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/>
-  </a>
-  
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="30"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30"/>
-  </a>
-</p>
-
-#### Languages 
-
-<div align="left">
-
-  <img src="https://github-readme-stats-phi-six-59.vercel.app/api/top-langs/?username=yooncandooit&layout=compact&theme=material-palenight&count_private=true" alt="yoonji's top langs" />
-
-<br />
-
-#### Statistics
-
-<div align="left">
-
+<div align="center">
+  <img src="https://github-readme-stats-phi-six-59.vercel.app/api/top-langs/?username=yooncandooit&layout=compact&theme=material-palenight&count_private=true" height="185" alt="yoonji's top langs" />
   <img src="https://github-readme-stats-phi-six-59.vercel.app/api?username=yooncandooit&show_icons=true&count_private=true&theme=material-palenight&hide=stars" height="180" alt="yoonji's GitHub stats" />
-
-</div>
-
 </div>
