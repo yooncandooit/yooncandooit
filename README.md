@@ -1,30 +1,22 @@
 
-<img width="1039" height="193" alt="image-Photoroom" src="https://github.com/user-attachments/assets/ac56186c-2209-42c4-ba53-b922ec7edb57" />
+<img width="1280" height="282" alt="배너-Photoroom" src="https://github.com/user-attachments/assets/7e20b54c-ceb9-4fe4-822b-4b0a6d9b1d9d" />
+
 
 <br/>
+<br/>
+
 
 <div align="center">
 
-  <h3>🎅 Merry Christmas! 🤶</h3>
+  <br/>
   
   <p>안녕하세요, 프론트엔드 개발자 <b>김윤지</b>입니다 ✨</p>
-  
-<div align="center">
-  
-  <img src="https://github-readme-stats-phi-six-59.vercel.app/api/tree?v=12" alt="3D Christmas Tree Animation ⭐️" />
-
-  
-
-
-  <br />
-
-</div>
 
 <br/>
 
 <div align="center">
   
-<h2> 🎄 About Me </h2>
+<h2> 😊 About Me </h2>
   
 **9oormthonUNIV** 3th Frontend Web `(2024.07 ~ 2024.12)` <br/>
 **9oormthonUNIV** 4th Marketing Leader `(2025.03 ~ 2025.11)` <br/>
@@ -34,7 +26,7 @@
 
 <br />
 
-<h2> ❄️ Languages and Status </h2>
+<h2> 👩‍💻 Languages and Status </h2>
 </div>
 
 <div align="center">
