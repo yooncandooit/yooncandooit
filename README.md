@@ -12,15 +12,22 @@
   
 <br/>
 
-<div align="center">
+<div align="start">
   
 <h2> 😊 About Me </h2>
   
-**9oormthonUNIV** 3th Frontend Web `(2024.07 ~ 2024.12)` <br/>
-**9oormthonUNIV** 4th Marketing Leader `(2025.03 ~ 2025.11)` <br/>
-**UMC** 8th Frontend Web Senior `(2025.03 ~ 2025.08)` <br/>
-**UMC** 9th Backend Spring Boot Junior `(2025.09 ~ 2026.01)` <br/>
-**DIVE SOPT** 37th Frontend Web YB `(2025.09 ~ 2026.01)` <br/>
+### ☁️ **<a href='https://9oormthon.university/'>9oormthonUNIV</a>** 
+- 3th Frontend Web `(2024.07 ~ 2024.12)` <br/>
+- 4th Marketing Leader `(2025.03 ~ 2025.11)` <br/>
+
+### ☄️ **<a href='https://umc.makeus.in/'>UMC</a>** 
+- 8th Frontend Web Senior `(2025.03 ~ 2025.08)` <br/>
+- 9th Backend Spring Boot Junior `(2025.09 ~ 2026.01)` <br/>
+
+### 🌊 **<a href='https://www.sopt.org/'>DIVE SOPT</a>** 
+- 37th Frontend Web YB `(2025.09 ~ 2026.01)`
+- 🏆 37th APPJAM Kareer 서비스 `우수상` 수상 `(2025.12 ~ )`
+- 🏆 37th APPJAM Kareer 서비스 `심사위원 특별상(기업 현직자 멘토단)` 수상  `(2025.12 ~ )`
 
 <br />
 
