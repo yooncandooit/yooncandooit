@@ -1,49 +1,63 @@
-
-<img width="1280" height="282" alt="배너-Photoroom" src="https://github.com/user-attachments/assets/7e20b54c-ceb9-4fe4-822b-4b0a6d9b1d9d" />
-
-
-<br/>
-<br/>
-
-
 <div align="center">
 
-  <br/>
-  
-<br/>
+# Hi, I'm Yoonji Kim (Helen) 👋
 
-<div align="start">
-  
-<h2> 😊 About Me </h2>
-  
-### ☁️ **<a href='https://9oormthon.university/'>9oormthonUNIV</a>** 
-- 3th Frontend Web `(2024.07 ~ 2024.12)` <br/>
-- 4th Marketing Leader `(2025.03 ~ 2025.11)` <br/>
+A software engineer who passionate ~
 
-### ☄️ **<a href='https://umc.makeus.in/'>UMC</a>** 
-- 8th Frontend Web Senior `(2025.03 ~ 2025.08)` <br/>
-- 9th Backend Spring Boot Junior `(2025.09 ~ 2026.01)` <br/>
+<a href="https://velog.io/@dotsi0/posts"><img src="https://img.shields.io/badge/Blog-velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yoonjikim0219/"><img src="https://img.shields.io/badge/LinkedIn-yoonjikim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Email-dotsi0%40dgu.ac.kr-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 
-### 🌊 **<a href='https://www.sopt.org/'>DIVE SOPT</a>** 
-- 37th Frontend Web YB `(2025.09 ~ 2026.01)`
-- 🏆 37th APPJAM Kareer 서비스 `우수상` 수상 `(2025.12 ~ )`
-- 🏆 37th APPJAM Kareer 서비스 `심사위원 특별상(기업 현직자 멘토단)` 수상  `(2025.12 ~ )`
-
-<br />
-
-<h2> 👩‍💻 Languages and Status </h2>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats-phi-six-59.vercel.app/api/top-langs/?username=yooncandooit&layout=compact&theme=material-palenight&count_private=true" height="185" alt="yoonji's top langs" />
-  <img src="https://github-readme-stats-phi-six-59.vercel.app/api?username=yooncandooit&show_icons=true&count_private=true&theme=material-palenight&hide=stars" height="180" alt="yoonji's GitHub stats" />
-</div>
+---
 
-<br/>
+## About Me
 
-<h2> 🔥 Contacts </h2>
+- 🎓 **Dongguk University** · B.E. in Information & Communication Engineering & Data Science - Seoul, Korea 🇰🇷 _(Mar 2022 – Feb 2027 `Expected`)_
+- 💻 Focused on **Web full-stack** development and **AWS + AI pipeline**
+- 🌏 Long-term goal: contributing to global teams and working overseas
+- 🐝 Side identity: creator of **[Nobeeisfree](https://www.instagram.com/nobeeisfree/)**, an original character IP registered with the Korean Copyright Commission _(active on Instagram & Giphy)_
 
-  <a href="https://instagram.com/yooncandooit" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="50" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:dotsi0@dgu.ac.kr" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50" alt="Gmail" /></a>
+---
 
+## Featured Projects
 
-<br/><br/>
+| Project | My Role | Highlight | Link |
+| --- | --- | --- | --- |
+| **Kareer** | Frontend Developer | AI career & visa guide platform for international students in Korea · SOPT 37th APPJAM **Excellence Award** + **Special Judge Award** | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/team-kareer/kareer-client) |
+| **BOAZ Website** | Frontend Developer | Official website for Korea's first big data club · Deployed via CloudFront + S3 + GitHub Actions (monorepo) | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/BOAZ-website/frontend) |
+| **REVIVO** | Full-Stack | Real-time CPR coaching system · Arduino + MediaPipe + FastAPI + React + Supabase · Capstone project | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Quattro-Cheese/REVIVO) |
+| **Everytime Clone** | Frontend Developer | DIVE SOPT 37th collaboration seminar · desktop recreation | [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SOPT-all/37-COLLABORATION-WEB-EVERYTIME) |
+
+---
+
+## Experiences
+
+#### 2025–2026
+- **2025.09 – 2026.01** · [DIVE SOPT](https://www.sopt.org/) 37th Frontend Web
+  - 🏆 APPJAM Excellence Award & Special Judge Award _(Kareer)_
+- **2025.09 – 2026.01** · [UMC](https://umc.makeus.in/) 9th Backend Spring Boot Junior
+- **2025.03 –** · [9oormthonUNIV](https://9oormthon.university/) 4th **Marketing Leader** _(67 universities, Kakao & Figma sponsorship)_
+- **2025.03 – 2025.08** · UMC 8th Frontend Web Senior · led 14-person React clean code study group
+- **2025.01 –** · [BOAZ](https://github.com/BOAZ-website) 25th Frontend Developer _(Korea's first big data club)_
+- **2025 –** · [ACC](https://aws.amazon.com/developer/community/usergroups/) AWS Cloud Club @ DGU
+
+#### 2024
+- **2024.07 – 2024.12** · [9oormthonUNIV](https://9oormthon.university/) 3rd Frontend Web
+
+---
+
+## Creative Work
+
+> Beyond code, I build worlds.
+
+🐝 **[Nobeeisfree](https://www.instagram.com/nobeeisfree/)** — an original character IP featuring Nobee, a bee navigating the absurdity of modern life.
+Registered with the Korean Copyright Commission. Active on **Instagram** and **Giphy**.
+
+---
+
+## Languages & Stats
+
+[![Top Langs](https://github-readme-stats-phi-six-59.vercel.app/api/top-langs/?username=yooncandooit&layout=compact&theme=material-palenight&count_private=true)](https://github.com/yooncandooit)
+[![GitHub Stats](https://github-readme-stats-phi-six-59.vercel.app/api?username=yooncandooit&show_icons=true&count_private=true&theme=material-palenight&hide=stars)](https://github.com/yooncandooit)
