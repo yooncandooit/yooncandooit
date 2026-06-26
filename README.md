@@ -2,7 +2,7 @@
 
 # Hi, I'm Yoonji Kim (Helen) 👋
 
-A software engineer who passionate ~
+A software engineer who passionate Web, Cloud technology, and Developer Relations.
 
 <a href="https://velog.io/@dotsi0/posts"><img src="https://img.shields.io/badge/Blog-velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/yoonjikim0219/"><img src="https://img.shields.io/badge/LinkedIn-yoonjikim-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
