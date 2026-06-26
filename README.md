@@ -25,7 +25,7 @@ A software engineer passionate about the Web, Cloud technology, and Developer Re
 
 #### 2026
 - 2026 ~ : [ASBG](https://acc-dgu.com/) AWS Student Builder Groups @ DGU
-- 2026.01 ~ 2026.07 : [BOAZ](https://github.com/BOAZ-website) 25th Analysis & Freelance Website Developer _(Korea's first big data club)_
+- 2026.01 ~ 2026.07 : [BOAZ](https://www.bigdataboaz.com/) 25th Data Analysis & Freelance Website Developer _(Korea's first big data club)_
 
 #### 2025
 - 2025.09 ~ 2026.01 : [DIVE SOPT](https://www.sopt.org/) 37th Frontend Web [(Project)](https://github.com/team-kareer/kareer-client)
