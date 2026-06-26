@@ -35,9 +35,10 @@ A software engineer passionate about the Web, Cloud technology, and Developer Re
 
 #### 2024
 - 2024.07 ~ 2024.12 : [9oormthonUNIV](https://9oormthon.university/) 3rd Frontend Web [(Project)](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_55_FE)
+- 2024.07 ~ 2024.07 : [CAPS](https://dgucaps.kr/) Homepage Development Management Organizer [(Project)](https://github.com/CAPS-DGU/capsv4) & Web Study Lead [(Project)](https://github.com/yooncandooit/yooncandooit.github.io)
 
 ## Creative Work 🐝
-- **[Nobeeisfree](https://www.instagram.com/nobeeisfree/)** - an original character IP featuring Nobee, a bee navigating the absurdity of modern life
+- **[Nobeeisfree](https://www.instagram.com/nobeeisfree/)** - an original character IP featuring Nobee
 - Registered with the Korean Copyright Commission, active on Instagram & Giphy (3.7M views)
 
 ## Languages & Stats
