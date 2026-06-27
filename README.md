@@ -17,9 +17,9 @@ A software engineer passionate about the Web, Cloud technology, and Developer Re
 
 ## Main Projects
 - **[REVIVO](https://github.com/Quattro-Cheese/REVIVO)** : CPR training web service integrating real-time pose estimation via MediaPipe, Arduino-based ultrasonic depth sensing, and a RAG-powered AI feedback system built on AWS Bedrock (AI & Full-Stack)
-- **[BOAZ Website](https://github.com/BOAZ-website/frontend)** : Official website for BOAZ, Korea's first big data club, built with React 19 + TypeScript + Vite, featuring FSD architecture and Vanilla Extract styling (Lead Frontend Developer)
 - **[Kareer](https://github.com/team-kareer/kareer-client)** : AI career & visa guide platform for international students in Korea (Frontend Developer)
   - 🏆 SOPT 37th APPJAM Excellence Award & Special Judge Award
+- **[BOAZ Website](https://github.com/BOAZ-website/frontend)** : Official website for BOAZ, Korea's first big data club, built with React 19 + TypeScript + Vite, featuring FSD architecture and Vanilla Extract styling (Lead Frontend Developer)
 
 ## Experiences
 
