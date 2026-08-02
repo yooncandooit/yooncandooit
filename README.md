@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Yoonji Kim (Helen) 👋
+# Hi, I'm Yoonji Kim (Jay) 👋
 
 A software engineer passionate about the Web, Cloud technology, and Developer Relations. [LinkedIn](https://www.linkedin.com/in/jayyoonjikim/)
 
@@ -10,7 +10,6 @@ A software engineer passionate about the Web, Cloud technology, and Developer Re
 
 ## About me
 - 🎓 Dongguk University (B.E. in Information & Communication Engineering & Data Science), Seoul, Korea 🇰🇷 _(Mar 2022 – Feb 2027 `Expected`)_
-- 🐝 Creator of **[Nobeeisfree](https://www.instagram.com/nobeeisfree/)**, an original character IP registered with the Korean Copyright Commission
 - Blog: [velog.io/@dotsi0](https://velog.io/@dotsi0/posts)
 - LinkedIn: [linkedin.com/in/yoonjikim0219](https://www.linkedin.com/in/yoonjikim0219/)
 - Email: dotsi0@dgu.ac.kr
